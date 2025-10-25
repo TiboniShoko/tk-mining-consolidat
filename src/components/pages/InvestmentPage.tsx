@@ -289,7 +289,7 @@ export function InvestmentPage() {
               <Button 
                 size="lg"
                 className="bg-primary hover:bg-primary/90 text-white shadow-xl hover:shadow-2xl transition-all hover:scale-105"
-                onClick={() => window.location.href = 'mailto:andersontsikira@gmail.com'}
+                onClick={() => window.location.href = 'mailto:anderson@tsikiramining.com'}
               >
                 <EnvelopeSimple size={20} className="mr-2" />
                 Contact for Partnerships

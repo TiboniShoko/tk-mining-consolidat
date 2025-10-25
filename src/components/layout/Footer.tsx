@@ -45,10 +45,10 @@ export function Footer() {
               <li className="flex items-start gap-3">
                 <EnvelopeSimple size={20} className="text-primary mt-0.5 flex-shrink-0" />
                 <a 
-                  href="mailto:andersontsikira@gmail.com" 
+                  href="mailto:anderson@tsikiramining.com" 
                   className="text-gray-300 hover:text-primary transition-colors break-all"
                 >
-                  andersontsikira@gmail.com
+                  anderson@tsikiramining.com
                 </a>
               </li>
               <li className="flex items-start gap-3">
