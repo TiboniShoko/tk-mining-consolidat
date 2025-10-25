@@ -43,24 +43,20 @@ export function HomePage({ onNavigate }: HomePageProps) {
             <TKLogo size={96} />
           </div>
           
-          <h1 className="text-5xl md:text-7xl font-bold mb-4 tracking-tight animate-in fade-in slide-in-from-bottom duration-700 delay-100">
+          <h1 className="text-5xl md:text-7xl font-bold mb-6 tracking-tight animate-in fade-in slide-in-from-bottom duration-700 delay-100">
             TK Mining Consolidation
           </h1>
           
-          <div className="text-2xl md:text-3xl mb-3 text-primary font-semibold animate-in fade-in slide-in-from-bottom duration-700 delay-200">
-            Anderson Tsikira
-          </div>
-          
-          <p className="text-lg md:text-xl mb-8 text-gray-300 max-w-2xl mx-auto animate-in fade-in slide-in-from-bottom duration-700 delay-300">
-            Visionary Entrepreneur & Community Builder
+          <p className="text-lg md:text-xl mb-8 text-gray-300 max-w-2xl mx-auto animate-in fade-in slide-in-from-bottom duration-700 delay-200">
+            Leading Zimbabwe's Mining Excellence
           </p>
           
-          <div className="text-base md:text-lg mb-12 text-gray-200 max-w-3xl mx-auto leading-relaxed animate-in fade-in slide-in-from-bottom duration-700 delay-400">
-            Leading Zimbabwe's mining future through sustainable operations, community development, 
+          <div className="text-base md:text-lg mb-12 text-gray-200 max-w-3xl mx-auto leading-relaxed animate-in fade-in slide-in-from-bottom duration-700 delay-300">
+            Building sustainable mining operations through innovation, community development, 
             and strategic partnerships across Mberengwa District
           </div>
           
-          <div className="flex flex-col sm:flex-row gap-4 justify-center animate-in fade-in slide-in-from-bottom duration-700 delay-500">
+          <div className="flex flex-col sm:flex-row gap-4 justify-center animate-in fade-in slide-in-from-bottom duration-700 delay-400">
             <Button 
               size="lg" 
               className="bg-primary hover:bg-primary/90 text-white shadow-xl hover:shadow-2xl transition-all hover:scale-105"
