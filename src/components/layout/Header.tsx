@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react'
 import { Button } from '@/components/ui/button'
 import { List, X } from '@phosphor-icons/react'
+import { TKLogo } from '@/components/TKLogo'
 import type { PageType } from '@/App'
 
 interface HeaderProps {
@@ -46,9 +47,7 @@ export function Header({ currentPage, onNavigate }: HeaderProps) {
             onClick={() => handleNavClick('home')}
             className="flex items-center gap-3 group"
           >
-            <div className="w-12 h-12 rounded-full gold-gradient flex items-center justify-center text-white font-bold text-xl shadow-lg">
-              TK
-            </div>
+            <TKLogo size={48} className="transition-transform group-hover:scale-105" />
             <div className="hidden md:block">
               <div className="text-white font-bold text-lg tracking-tight">TK Mining</div>
               <div className="text-accent text-xs">Consolidation</div>

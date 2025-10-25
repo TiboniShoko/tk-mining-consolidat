@@ -1,5 +1,6 @@
 import { EnvelopeSimple, Phone, MapPin } from '@phosphor-icons/react'
 import { Separator } from '@/components/ui/separator'
+import { TKLogo } from '@/components/TKLogo'
 
 export function Footer() {
   return (
@@ -8,9 +9,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
           <div>
             <div className="flex items-center gap-3 mb-4">
-              <div className="w-12 h-12 rounded-full gold-gradient flex items-center justify-center text-white font-bold text-xl shadow-lg">
-                TK
-              </div>
+              <TKLogo size={48} />
               <div>
                 <div className="font-bold text-lg">TK Mining</div>
                 <div className="text-accent text-sm">Consolidation</div>

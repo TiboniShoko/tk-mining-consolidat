@@ -1,6 +1,7 @@
 import { Button } from '@/components/ui/button'
 import { Card, CardContent } from '@/components/ui/card'
 import { ArrowRight, HardHat, Users, TrendUp, Briefcase } from '@phosphor-icons/react'
+import { TKLogo } from '@/components/TKLogo'
 import type { PageType } from '@/App'
 
 interface HomePageProps {
@@ -38,8 +39,8 @@ export function HomePage({ onNavigate }: HomePageProps) {
         <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-secondary/50"></div>
         
         <div className="container mx-auto px-4 relative z-10 text-center py-24">
-          <div className="w-24 h-24 mx-auto mb-6 rounded-full gold-gradient flex items-center justify-center text-white font-bold text-4xl shadow-2xl animate-in fade-in zoom-in duration-700">
-            TK
+          <div className="mx-auto mb-6 animate-in fade-in zoom-in duration-700 inline-block">
+            <TKLogo size={96} />
           </div>
           
           <h1 className="text-5xl md:text-7xl font-bold mb-4 tracking-tight animate-in fade-in slide-in-from-bottom duration-700 delay-100">
