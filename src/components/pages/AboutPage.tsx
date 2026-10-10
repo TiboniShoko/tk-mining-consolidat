@@ -30,10 +30,13 @@ export function AboutPage() {
       <section className="bg-secondary text-white py-20">
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto text-center">
-            <h1 className="text-5xl md:text-6xl font-bold mb-6 tracking-tight">
-              About TK Mining Consolidation
+            <h1 className="text-3xl sm:text-5xl md:text-6xl font-bold mb-6 tracking-tight">
+              About TIKANSU INVESTMENTS Pvt Ltd
             </h1>
             <p className="text-xl text-gray-300 leading-relaxed">
+              TIKANSU INVESTMENTS Pvt Ltd focuses on mining operations in Mberengwa District, Zimbabwe.
+            </p>
+            <p className="text-xl text-gray-300 leading-relaxed mt-4">
               A legacy of entrepreneurship, innovation, and community development 
               built over 15 years in Zimbabwe's mining heartland
             </p>
@@ -57,7 +60,7 @@ export function AboutPage() {
                 <p className="text-muted-foreground leading-relaxed mb-4">
                   Anderson Tsikira's journey began with a vision to transform Mberengwa's mining 
                   potential into sustainable prosperity for the region. With extensive background 
-                  in security and corporate management, he founded TK Mining Consolidation in 2010, 
+                  in security and corporate management, he began retail and mining operations in 2010,
                   establishing the foundation for what would become one of the region's most 
                   comprehensive mining operations.
                 </p>
@@ -158,7 +161,7 @@ export function AboutPage() {
               A Vision for the Future
             </h2>
             <p className="text-lg text-muted-foreground leading-relaxed mb-8">
-              TK Mining Consolidation continues to expand its footprint across multiple sectors, 
+              TIKANSU INVESTMENTS Pvt Ltd continues to expand its footprint across multiple sectors,
               maintaining its commitment to sustainable growth, community empowerment, and 
               operational excellence. With strategic diversification into agriculture and real estate, 
               the company is positioned to drive regional development for decades to come.

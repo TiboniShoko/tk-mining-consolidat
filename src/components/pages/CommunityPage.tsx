@@ -88,7 +88,7 @@ export function CommunityPage() {
           <div className="max-w-4xl mx-auto text-center mb-16">
             <h2 className="text-4xl font-bold mb-4 text-secondary">Our Community Commitment</h2>
             <p className="text-lg text-muted-foreground leading-relaxed">
-              TK Mining Consolidation recognizes that true success extends beyond operational excellence. 
+              TIKANSU INVESTMENTS Pvt Ltd recognizes that true success extends beyond operational excellence.
               We are deeply invested in the long-term prosperity of Mberengwa District through strategic 
               initiatives in education, infrastructure, and economic development.
             </p>

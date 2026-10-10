@@ -45,12 +45,13 @@ export function Header({ currentPage, onNavigate }: HeaderProps) {
         <div className="flex items-center justify-between h-20">
           <button
             onClick={() => handleNavClick('home')}
+            aria-label="TIKANSU INVESTMENTS Pvt Ltd home"
             className="flex items-center gap-3 group"
           >
             <TKLogo size={48} className="transition-transform group-hover:scale-105" />
-            <div className="hidden md:block">
-              <div className="text-white font-bold text-lg tracking-tight">TK Mining</div>
-              <div className="text-accent text-xs">Consolidation</div>
+            <div className="text-left">
+              <div className="text-white font-bold text-lg tracking-tight">TIKANSU</div>
+              <div className="text-accent text-xs">INVESTMENTS Pvt Ltd</div>
             </div>
           </button>
 

@@ -157,7 +157,7 @@ export function InvestmentPage() {
             </div>
 
             <div className="mb-12">
-              <h2 className="text-3xl font-bold mb-4 text-secondary text-center">Why Invest with TK Mining?</h2>
+              <h2 className="text-3xl font-bold mb-4 text-secondary text-center">Why Invest with TIKANSU INVESTMENTS Pvt Ltd?</h2>
               <div className="grid md:grid-cols-3 gap-6 mt-8">
                 {benefits.map((benefit, index) => {
                   const Icon = benefit.icon
@@ -282,7 +282,7 @@ export function InvestmentPage() {
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="text-4xl font-bold mb-6">Ready to Partner with Us?</h2>
             <p className="text-lg text-gray-300 mb-8 leading-relaxed">
-              Join TK Mining Consolidation's success story. Contact us today to discuss partnership 
+              Join TIKANSU INVESTMENTS Pvt Ltd's success story. Contact us today to discuss partnership
               opportunities and receive detailed project proposals.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">

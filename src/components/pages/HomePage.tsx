@@ -43,8 +43,8 @@ export function HomePage({ onNavigate }: HomePageProps) {
             <TKLogo size={96} />
           </div>
           
-          <h1 className="text-5xl md:text-7xl font-bold mb-6 tracking-tight animate-in fade-in slide-in-from-bottom duration-700 delay-100">
-            TK Mining Consolidation
+          <h1 className="text-3xl sm:text-5xl md:text-7xl font-bold mb-6 tracking-tight animate-in fade-in slide-in-from-bottom duration-700 delay-100">
+            TIKANSU INVESTMENTS Pvt Ltd
           </h1>
           
           <p className="text-lg md:text-xl mb-8 text-gray-300 max-w-2xl mx-auto animate-in fade-in slide-in-from-bottom duration-700 delay-200">
@@ -91,7 +91,7 @@ export function HomePage({ onNavigate }: HomePageProps) {
             </h2>
             <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
               From humble beginnings in 2010 to a comprehensive mining conglomerate, 
-              TK Mining Consolidation represents excellence, sustainability, and community-first values
+              TIKANSU INVESTMENTS Pvt Ltd represents excellence, sustainability, and community-first values
             </p>
           </div>
 
