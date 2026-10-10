@@ -179,7 +179,7 @@ export function OperationsPage() {
               Partnership Model
             </h2>
             <p className="text-lg text-gray-300 mb-8 leading-relaxed">
-              TK Mining operates on a collaborative partnership model with a 67% partnership rate 
+              TIKANSU INVESTMENTS Pvt Ltd operates on a collaborative partnership model with a 67% partnership rate
               across all operations. We believe in sharing success with claim owners and local 
               communities, creating sustainable value for all stakeholders.
             </p>

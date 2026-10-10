@@ -11,12 +11,12 @@ export function Footer() {
             <div className="flex items-center gap-3 mb-4">
               <TKLogo size={48} />
               <div>
-                <div className="font-bold text-lg">TK Mining</div>
-                <div className="text-accent text-sm">Consolidation</div>
+                <div className="font-bold text-lg">TIKANSU</div>
+                <div className="text-accent text-sm">INVESTMENTS Pvt Ltd</div>
               </div>
             </div>
             <p className="text-sm text-gray-300 leading-relaxed">
-              A leading Zimbabwean mining conglomerate founded and led by visionary entrepreneur Anderson Tsikira.
+              A Zimbabwean mining business specializing in gold, antimony, chrome, and lead across Mberengwa District.
             </p>
           </div>
 
@@ -62,7 +62,7 @@ export function Footer() {
               <li className="flex items-start gap-3">
                 <MapPin size={20} className="text-primary mt-0.5 flex-shrink-0" />
                 <span className="text-gray-300">
-                  Mberengwa District, Midlands Province, Zimbabwe
+                  493 Northwood, Mberengwa
                 </span>
               </li>
             </ul>
@@ -72,7 +72,7 @@ export function Footer() {
         <Separator className="bg-white/10 mb-6" />
 
         <div className="text-center text-sm text-gray-400">
-          <p>© 2025 TK Mining Consolidation | A Legacy of Growth & Excellence</p>
+          <p>© 2025 TIKANSU INVESTMENTS Pvt Ltd | A Legacy of Growth & Excellence</p>
         </div>
       </div>
     </footer>
